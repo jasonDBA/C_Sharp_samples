@@ -1,0 +1,13 @@
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\Books.mdf
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\Books_log.ldf
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\BooksExamples.dll.config
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\BooksExamples.dll
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\BooksExamples.pdb
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\EntityFramework.dll
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\EntityFramework.xml
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\obj\Debug\BooksExamples.csproj.CopyComplete
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\obj\Debug\BooksExamples.dll
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\obj\Debug\BooksExamples.pdb
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\BooksExamples\obj\Debug\BooksExamples.csprojAssemblyReference.cache

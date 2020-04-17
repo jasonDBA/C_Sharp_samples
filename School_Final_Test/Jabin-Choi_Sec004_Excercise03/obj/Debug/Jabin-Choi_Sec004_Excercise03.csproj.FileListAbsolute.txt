@@ -1,0 +1,9 @@
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\bin\Debug\Jabin-Choi_Sec004_Excercise03.exe.config
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\bin\Debug\Jabin-Choi_Sec004_Excercise03.exe
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\bin\Debug\Jabin-Choi_Sec004_Excercise03.pdb
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\obj\Debug\Jabin-Choi_Sec004_Excercise03.csprojAssemblyReference.cache
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\obj\Debug\Jabin_Choi_Sec004_Excercise03.Excercise03.resources
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\obj\Debug\Jabin_Choi_Sec004_Excercise03.Properties.Resources.resources
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\obj\Debug\Jabin-Choi_Sec004_Excercise03.csproj.GenerateResource.cache
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\obj\Debug\Jabin-Choi_Sec004_Excercise03.exe
+C:\Users\Jabin\Documents\Semester4\Programming 3\Final Test\Jabin-Choi_COMP212_Sec004_Test02\Jabin-Choi_Sec004_Excercise03\obj\Debug\Jabin-Choi_Sec004_Excercise03.pdb
