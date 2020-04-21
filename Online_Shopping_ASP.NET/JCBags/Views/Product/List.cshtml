@@ -1,0 +1,21 @@
+﻿@*
+    Student Name: Jabin Choi
+    Student ID: 300974443
+    Sec: 008
+    Date: 28th Nov, 2018
+
+    Title: Assignment 04
+*@
+
+@model ProductsListViewModel
+
+@foreach (var p in Model.Products)
+{
+    @Html.Partial("ProductSummary", p)
+}
+
+<div page-model="@Model.PagingInfo" page-action="List" page-classes-enabled="true"
+     page-class="btn" page-class-normal="btn-secondary"
+     page-class-selected="btn-primary" page-url-category="@Model.CurrentCategory"
+     class="btn-group pull-right m-1">
+</div>

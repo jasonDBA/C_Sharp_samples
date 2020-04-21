@@ -1,0 +1,39 @@
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\bin\Debug\netcoreapp2.0\JCBags.deps.json
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\bin\Debug\netcoreapp2.0\JCBags.runtimeconfig.json
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\bin\Debug\netcoreapp2.0\JCBags.runtimeconfig.dev.json
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\bin\Debug\netcoreapp2.0\JCBags.dll
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\bin\Debug\netcoreapp2.0\JCBags.pdb
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\obj\Debug\netcoreapp2.0\JCBags.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\obj\Debug\netcoreapp2.0\JCBags.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\obj\Debug\netcoreapp2.0\JCBags.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\obj\Debug\netcoreapp2.0\JCBags.AssemblyInfo.cs
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\obj\Debug\netcoreapp2.0\JCBags.dll
+C:\Users\pc\Desktop\College\Semester_03\Web Application Development\Assignment03\JCBags\JCBags\obj\Debug\netcoreapp2.0\JCBags.pdb
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\JCBags.deps.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\JCBags.runtimeconfig.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\JCBags.runtimeconfig.dev.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\JCBags.dll
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\bin\Debug\netcoreapp2.0\JCBags.pdb
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\obj\Debug\netcoreapp2.0\JCBags.csprojAssemblyReference.cache
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\obj\Debug\netcoreapp2.0\JCBags.AssemblyInfoInputs.cache
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\obj\Debug\netcoreapp2.0\JCBags.AssemblyInfo.cs
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\obj\Debug\netcoreapp2.0\JCBags.dll
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_300974443_Jabin Choi\JCBags\obj\Debug\netcoreapp2.0\JCBags.pdb
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\libman.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\JCBags.deps.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\JCBags.runtimeconfig.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\JCBags.runtimeconfig.dev.json
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\JCBags.dll
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\bin\Debug\netcoreapp2.0\JCBags.pdb
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\obj\Debug\netcoreapp2.0\JCBags.csprojAssemblyReference.cache
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\obj\Debug\netcoreapp2.0\JCBags.AssemblyInfoInputs.cache
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\obj\Debug\netcoreapp2.0\JCBags.AssemblyInfo.cs
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\obj\Debug\netcoreapp2.0\JCBags.dll
+C:\Users\Jabin\Desktop\College\Semester_03\Web Application Development\Assignment04\JCBags_Website\JCBags\obj\Debug\netcoreapp2.0\JCBags.pdb
