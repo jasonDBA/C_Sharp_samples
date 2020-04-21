@@ -1,0 +1,43 @@
+﻿@* 
+    Student Name: Jabin Choi
+    Student ID: 300974443
+    Sec: 008
+    Date: 28th Nov, 2018
+
+    Title: Assignment 04
+
+*@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/bootstrap.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/solid.css" integrity="sha384-rdyFrfAIC05c5ph7BKz3l5NG5yEottvO/DQ0dCrwD8gzeQDjYBHNr1ucUpQuljos" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/fontawesome.css" integrity="sha384-u5J7JghGz0qUrmEsWzBQkfvc8nK3fUT7DCaQzNQ+q4oEXhGSx+P2OqjWsfIRB8QT" crossorigin="anonymous">
+    <title>JCBags</title>
+</head>
+<body>
+    <div class="navbar navbar-inverse bg-inverse" role="navigation">
+        <div class="row">
+            <a class="col navbar-brand" href="#" style="margin-left:20px">JC Bags</a>
+            <div class="col-4" style="float:right">
+                @await Component.InvokeAsync("CartSummary")
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-lg-3">
+            @await Component.InvokeAsync("NavigationMenu")
+        </div>
+        <div class="col-md-9">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
