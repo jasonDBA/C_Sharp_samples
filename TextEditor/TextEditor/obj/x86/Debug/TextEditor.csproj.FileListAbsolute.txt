@@ -1,0 +1,62 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch32\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch25\Fig32_13-14\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.Cache
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+E:\A-Teaching\Centennial\FALL2018\COMP212\Code Examples\ch25\Ch25_WPF_Deitel_CodeExamples\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+G:\COMP212\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+G:\COMP212\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+G:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+D:\COMP212\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\COMP212\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\MainWindow.baml
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\MainWindow.g.cs
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\App.g.cs
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor_MarkupCompile.cache
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.g.resources
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+D:\COMP212\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb

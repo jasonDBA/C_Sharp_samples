@@ -1,0 +1,17 @@
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\bin\Debug\Jabin_Choi_Excercise1.exe.config
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\bin\Debug\Jabin_Choi_Excercise1.exe
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\bin\Debug\Jabin_Choi_Excercise1.pdb
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.csprojAssemblyReference.cache
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\MainWindow.g.cs
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\App.g.cs
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1_MarkupCompile.cache
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1_MarkupCompile.lref
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\MainWindow.baml
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.g.resources
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.Properties.Resources.resources
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.csproj.GenerateResource.cache
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.exe
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.pdb
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise1\obj\Debug\Jabin_Choi_Excercise1.csproj.CopyComplete

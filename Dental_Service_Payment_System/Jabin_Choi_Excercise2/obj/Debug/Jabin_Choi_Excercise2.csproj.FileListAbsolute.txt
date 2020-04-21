@@ -1,0 +1,6 @@
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise2\bin\Debug\Jabin_Choi_Excercise2.exe.config
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise2\bin\Debug\Jabin_Choi_Excercise2.exe
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise2\bin\Debug\Jabin_Choi_Excercise2.pdb
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise2\obj\Debug\Jabin_Choi_Excercise2.csprojAssemblyReference.cache
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise2\obj\Debug\Jabin_Choi_Excercise2.exe
+C:\Users\Jabin\Documents\Semester4\Programming 3\Assignment3\Jabin-Choi_Sec004_COMP212_Lab03\Jabin_Choi_Excercise2\obj\Debug\Jabin_Choi_Excercise2.pdb
