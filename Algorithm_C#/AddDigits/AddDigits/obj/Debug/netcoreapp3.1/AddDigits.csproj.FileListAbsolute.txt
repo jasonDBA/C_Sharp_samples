@@ -1,0 +1,13 @@
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\bin\Debug\netcoreapp3.1\AddDigits.exe
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\bin\Debug\netcoreapp3.1\AddDigits.deps.json
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\bin\Debug\netcoreapp3.1\AddDigits.runtimeconfig.json
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\bin\Debug\netcoreapp3.1\AddDigits.runtimeconfig.dev.json
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\bin\Debug\netcoreapp3.1\AddDigits.dll
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\bin\Debug\netcoreapp3.1\AddDigits.pdb
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.csprojAssemblyReference.cache
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.csproj.CoreCompileInputs.cache
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.AssemblyInfoInputs.cache
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.AssemblyInfo.cs
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.dll
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.pdb
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\AddDigits\AddDigits\obj\Debug\netcoreapp3.1\AddDigits.genruntimeconfig.cache
