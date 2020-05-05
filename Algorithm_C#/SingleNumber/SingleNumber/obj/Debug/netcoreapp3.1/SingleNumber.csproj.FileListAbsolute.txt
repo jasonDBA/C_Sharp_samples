@@ -1,0 +1,13 @@
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.exe
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.deps.json
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.runtimeconfig.json
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.runtimeconfig.dev.json
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.dll
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\bin\Debug\netcoreapp3.1\SingleNumber.pdb
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.csprojAssemblyReference.cache
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.AssemblyInfoInputs.cache
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.AssemblyInfo.cs
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.dll
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.pdb
+C:\Users\Jabin\Documents\Github\C#_Samples\Algorithm_C#\SingleNumber\SingleNumber\obj\Debug\netcoreapp3.1\SingleNumber.genruntimeconfig.cache
